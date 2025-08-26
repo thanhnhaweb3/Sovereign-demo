@@ -1,4 +1,10 @@
+# Docker 
+
+docker run -it --rm ghcr.io/celestiaorg/celestia-node:v0.24.1-mocha sh
+
+
 # Sovereign-demo
+
 
 
 curl -s http://localhost:10350 | jq .
